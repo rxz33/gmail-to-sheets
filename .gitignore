@@ -5,6 +5,3 @@ credentials/state.json
 __pycache__/
 venv/
 *.pyc
-
-proof/*.mp4
-proof/*.mov
