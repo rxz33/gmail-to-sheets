@@ -115,3 +115,6 @@ This file contains a list of processed message IDs. I used message IDs because t
 - I used OAuth Desktop flow because this project needs access to a real Gmail account and service accounts are not suitable for personal Gmail.
 - I used `state.json` with message IDs because it is simple, reliable, and prevents duplicate rows on reruns.
 - I mark emails as read only after the sheet append succeeds to avoid losing emails.
+
+
+Demo video link: (https://drive.google.com/file/d/1zbfGrAt4NHakpHML6oG4EZNCMSUlGJz3/view?usp=sharing)
