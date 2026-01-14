@@ -119,4 +119,8 @@ This file contains a list of processed message IDs. I used message IDs because t
 - I mark emails as read only after the sheet append succeeds to avoid losing emails.
 
 
-Demo video link: https://drive.google.com/file/d/1zbfGrAt4NHakpHML6oG4EZNCMSUlGJz3/view?usp=sharing
+## Proof
+Screenshots are in `/proof/`.
+
+Demo video is available at: `proof/demo_video.mp4`
+(Download using the **View raw** button on GitHub.)
