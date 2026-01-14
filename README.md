@@ -119,4 +119,4 @@ This file contains a list of processed message IDs. I used message IDs because t
 - I mark emails as read only after the sheet append succeeds to avoid losing emails.
 
 
-Demo video link: (https://drive.google.com/file/d/1zbfGrAt4NHakpHML6oG4EZNCMSUlGJz3/view?usp=sharing)
+Demo video link: https://drive.google.com/file/d/1zbfGrAt4NHakpHML6oG4EZNCMSUlGJz3/view?usp=sharing
