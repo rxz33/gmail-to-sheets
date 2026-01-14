@@ -36,8 +36,7 @@ This project is a Python script that reads **unread emails from my Gmail Inbox**
 +---------------------------+
 | Google Sheet (rows added) |
 +---------------------------+
-
-
+```
 
 
 ## 2) Step-by-step setup instructions 
