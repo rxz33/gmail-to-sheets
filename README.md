@@ -11,6 +11,7 @@ This project is a Python script that reads **unread emails from my Gmail Inbox**
 
 ## 1) High-level Architecture Diagram
 
+```text
 +---------------------------+
 | Gmail Inbox (unread only) |
 +-------------+-------------+
@@ -21,10 +22,11 @@ This project is a Python script that reads **unread emails from my Gmail Inbox**
 | Python Script (src/main.py)|
 +----------------------------+
 | 1) Fetch unread emails     |
-| 2) Extract: From/Subject/  |
-| Date/Body (plain text)     |
-| 3) Check state.json to     | 
-| prevent duplicates         |
+| 2) Extract fields:         |
+|    From / Subject / Date   |
+|    Body (plain text)       |
+| 3) Check state.json to     |
+|    prevent duplicates      |
 | 4) Append rows to Sheet    |
 | 5) Mark emails as read     |
 +-------------+--------------+
@@ -34,6 +36,7 @@ This project is a Python script that reads **unread emails from my Gmail Inbox**
 +---------------------------+
 | Google Sheet (rows added) |
 +---------------------------+
+
 
 
 
